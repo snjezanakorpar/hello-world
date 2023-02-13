@@ -1,5 +1,5 @@
 # hello-world
-#### Projektmanagrein bei Grand Digita. Hat keine Ahnung was sie hier macht!
+#### Projektmanagerein bei Grand Digital. Hat keine Ahnung was sie hier macht!
 ## Whats That? *only the loanly*
 + I'm lost!
 ### Wenn ich hier fertig bin!
